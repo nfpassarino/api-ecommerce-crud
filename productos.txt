@@ -1,0 +1,64 @@
+{
+  "objects": [
+    {
+      "nombre": "Escuadra",
+      "codigo": "09BF00",
+      "precio": 45.76,
+      "stock": 2,
+      "descripcion": "hi, i'm a product",
+      "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+      "id": 1,
+      "timestamp": "2021-10-26T23:21:57.574Z"
+    },
+    {
+      "nombre": "Herramienta matemática",
+      "codigo": "094F00",
+      "precio": 65.43,
+      "stock": 3,
+      "descripcion": "hi, i'm a product",
+      "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+      "id": 2,
+      "timestamp": "2021-10-26T23:22:53.288Z"
+    },
+    {
+      "nombre": "Globo terraqueo",
+      "codigo": "13DC00",
+      "precio": 364.49,
+      "stock": 10,
+      "descripcion": "hi, i'm a product",
+      "foto": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+      "id": 3,
+      "timestamp": "2021-10-26T23:24:38.867Z"
+    },
+    {
+      "nombre": "Tijera",
+      "codigo": "1409FF",
+      "precio": 52.98,
+      "stock": 6,
+      "descripcion": "hi, i'm a product",
+      "foto": "https://cdn0.iconfinder.com/data/icons/graphic-design-tools-5/128/_scissor-256.png",
+      "id": 4,
+      "timestamp": "2021-10-26T23:26:18.208Z"
+    },
+    {
+      "nombre": "Lapiz",
+      "codigo": "88YTF3",
+      "precio": 10.1,
+      "stock": 12,
+      "descripcion": "hi, i'm a product",
+      "foto": "https://cdn2.iconfinder.com/data/icons/cartoonist-1/64/pencil-draw-writing_tool-education-256.png",
+      "id": 5,
+      "timestamp": "2021-10-26T23:27:11.017Z"
+    },
+    {
+      "nombre": "Rubik",
+      "codigo": "21NH78",
+      "precio": 230.09,
+      "stock": 20,
+      "descripcion": "hi, i'm a product",
+      "foto": "https://cdn4.iconfinder.com/data/icons/toys-flat-3/64/Rubik-freak-gaming-education-cube-256.png",
+      "id": 6,
+      "timestamp": "2021-10-26T23:31:17.629Z"
+    }
+  ]
+}

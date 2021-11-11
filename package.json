@@ -1,0 +1,21 @@
+{
+  "name": "api-ecommerce-crud",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon --watch src/app.js"
+  },
+  "dependencies": {
+    "debug": "^4.3.2",
+    "express": "^4.17.1",
+    "firebase-admin": "^10.0.0",
+    "knex": "^0.95.14",
+    "mariadb": "^2.5.5",
+    "moment": "^2.29.1",
+    "mongodb": "^4.1.4",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.14"
+  }
+}
